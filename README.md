@@ -1,5 +1,5 @@
 # Memoire-Master
-# 🤖 L'Intelligence Artificielle : Progrès Technologique ou Menace Existentielle pour l'Humanité ?
+# L'Intelligence Artificielle : Progrès Technologique ou Menace Existentielle pour l'Humanité ?
 
 ## Présentation du Projet
 
