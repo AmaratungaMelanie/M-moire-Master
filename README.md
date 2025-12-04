@@ -7,8 +7,6 @@ Ce dépôt contient le mémoire de Master 1 réalisé dans le cadre du Parcours 
 
 Ce travail de recherche explore la double nature de l'Intelligence Artificielle (IA) : d'une part, en tant que **progrès technologique majeur** promettant des avancées considérables pour l'humanité, et d'autre part, en tant que source de préoccupations sérieuses, soulevant des questions éthiques, sociales et potentiellement **existentielles**.
 
-Le document principal est : **`L intelligence Artificielle progrès technologique ou menace existentielle pour l'humanité.pdf`**.
-
 ## Objectifs de l'Étude
 
 L'objectif principal de ce mémoire est d'analyser et de confronter les arguments des deux camps :
